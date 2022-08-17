@@ -1,7 +1,10 @@
 # Hello Microverse
 
-> Microverse task. HTML and CSSMicroverse task.
+> Microverse task. HTML and CSS Microverse task.
 
+## Getting Started
+The steps to clone and the project locally is : 
+git clone git@github.com:OsvaldoBC/Hello-world.git
 
 ## Built With
 
